@@ -1,0 +1,36 @@
+/* homepage.css */
+/*@media (min-width: 601px) {
+	#navcontainer {
+		display:none;	
+	}
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  { 
+	#navcontainer { display:block; }
+	#homepage-video { display:none; }
+    #skip-link-container { display:none; }	
+}*/
+
+/*#navcontainer {
+	display:none;	
+}
+
+@media screen and (device-aspect-ratio: 2/3) {
+	#navcontainer { display:block; }
+	#homepage-video { display:none; }
+    #skip-link-container { display:none; }
+}
+
+@media screen and (device-aspect-ratio: 40/71) {
+	#navcontainer { display:block; }
+	#homepage-video { display:none; }
+    #skip-link-container { display:none; }
+}
+
+@media screen and (device-aspect-ratio: 3/4) {
+	#navcontainer { display:block; }
+	#homepage-video { display:none; }
+    #skip-link-container { display:none; }
+}*/
