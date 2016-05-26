@@ -84,38 +84,6 @@ h3 {
 }
 /*SCROLL BOX*/
 
-
-/*CLIENT LIST*/
-#myColumn {
-	width: 800px;
-	margin: 0 auto;
-	padding-left: 107px;
-	-moz-column-count: 5;
-	-webkit-column-count: 5;
-	-moz-column-gap: 1em;
-	-webkit-column-gap: 2em;
-	column-count: 5;
-	/*-moz-column-rule-style: solid;
- -moz-column-rule-color: #fff;
- -moz-column-rule-width: 2px;*/
-/*-webkit-column-rule-style: solid;
- -webkit-column-rule-color: #fff;
- -webkit-column-rule-width: 2px;*/
-	text-align: left;
-	font-size: 0.8em;
-}
-#myColumn li{
-	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
-	font-size: 8pt;
-	line-height: 16pt;
-	color: #FFF;
-	list-style-type: none;
-}
-/*#myColumn span li{
-	margin-left: 30px;
-}
-*/
-
 .two-col {
   width: 600px;
   margin: 0 auto;
