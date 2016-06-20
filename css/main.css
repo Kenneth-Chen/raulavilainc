@@ -84,19 +84,19 @@ h3 {
 }
 /*SCROLL BOX*/
 
-.two-col {
+.three-col {
   width: 600px;
   margin: 0 auto;
-  padding-left: 150px;
-  -moz-column-count: 2;
-  -webkit-column-count: 2;
+  padding-left: 30px;
+  -moz-column-count: 3;
+  -webkit-column-count: 3;
   -moz-column-gap: 1em;
   -webkit-column-gap: 2em;
-  column-count: 2;
+  column-count: 3;
   text-align: left;
   font-size: 0.8em;
 }
-.two-col li{
+.three-col li{
   font-family: "Century Gothic", Arial, Helvetica, sans-serif;
   font-size: 8pt;
   line-height: 16pt;
